@@ -7,7 +7,7 @@ To improve business analytics and decision-making, the company transitioned to u
 ---
 
 ## Project Overview  
-This project explores AtliQ Hardware’s sales data using MySQL. The objective is to automate recurring and ad-hoc business reports by leveraging SQL functions, views, procedures, and window functions.
+This project explores AtliQ Hardware’s finance analytics data using MySQL. The objective is to automate recurring and ad-hoc business reports by leveraging SQL functions, views, procedures, and window functions.
 
 ---
 
